@@ -1,4 +1,14 @@
 # Tiny Thermal Cam
+## Parts
+
+- [ESP32](https://fr.aliexpress.com/item/1005006476877078.html)  
+- [ST7735 Screen](https://www.amazon.fr/dp/B07BY2W1TQ)  
+- [Lepton FLIR Breakout Board v2](https://mou.sr/3UNaF37)  
+- [Lepton FLIR 3.1R](https://mou.sr/416S7OK)  
+
+## Pinout
+
+![Wiring](Schéma.png)
 
 | ESP32 Pin | Lepton Pin | Fonction  |
 |-----------|------------|-----------|
