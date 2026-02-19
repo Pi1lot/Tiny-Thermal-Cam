@@ -1,4 +1,9 @@
 # Tiny Thermal Cam
+
+## 
+
+Huge thank to [Jacob-Lundstrom](https://github.com/Jacob-Lundstrom/ESP-FLIR) for its repository. It was the only one that I could get working properly with my Lepton camera.
+
 ## Parts
 
 - [ESP32](https://fr.aliexpress.com/item/1005006476877078.html)  
