@@ -35,3 +35,7 @@ Huge thanks to [Jacob-Lundstrom](https://github.com/Jacob-Lundstrom/ESP-FLIR) fo
 | D23       | SDA        | Data    (MOSI)  |
 | D18       | SCK        | SPI Clock       |
 | 3V3       | LED        | Backlight       |
+
+## Code
+
+Depending if you prefer accuracy over speed, you can choose different programms. [LEpton_grayscale_Ultra_fast.ino](https://github.com/Pi1lot/Tiny-Thermal-Cam/blob/main/LEpton_grayscale_Ultra_fast.ino) has the most FPS and is the most stable during use (almost no static, very few freezes), but temperatures are innacurate. If you prefer more accurate measurements, choose ...
