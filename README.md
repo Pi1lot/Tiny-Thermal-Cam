@@ -2,7 +2,7 @@
 
 ## 
 
-Huge thank to [Jacob-Lundstrom](https://github.com/Jacob-Lundstrom/ESP-FLIR) for its repository. It was the only one that I could get working properly with my Lepton camera.
+Huge thanks to [Jacob-Lundstrom](https://github.com/Jacob-Lundstrom/ESP-FLIR) for its repository. It was the only one that I could get working properly with my Lepton camera.
 
 ## Parts
 
