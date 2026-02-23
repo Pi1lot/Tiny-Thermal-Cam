@@ -1,6 +1,7 @@
 # Tiny Thermal Cam
 
-## 
+
+![Working](lepton_scope_working.gif)
 
 Huge thanks to [Jacob-Lundstrom](https://github.com/Jacob-Lundstrom/ESP-FLIR) for its repository. It was the only one that I could get working properly with my Lepton camera.
 
