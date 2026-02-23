@@ -42,4 +42,4 @@ Huge thanks to [Jacob-Lundstrom](https://github.com/Jacob-Lundstrom/ESP-FLIR) fo
 
 ## Code
 
-Depending if you prefer accuracy over speed, you can choose different programms. [LEpton_grayscale_Ultra_fast.ino](https://github.com/Pi1lot/Tiny-Thermal-Cam/blob/main/LEpton_grayscale_Ultra_fast.ino) has the most FPS and is the most stable during use (almost no static, very few freezes), but temperatures are innacurate. If you prefer more accurate measurements, choose ...
+Depending if you prefer accuracy over speed, you can choose different programms. [Lepton_Grayscale_v6_completed.ino](https://github.com/Pi1lot/Tiny-Thermal-Cam/blob/main/Lepton_Grayscale_v6_completed.ino) is the latest version with proper handling of Lepton syncing at boot and implement a scale potentiometer to adjust contrast if used in a wide range of temperature. [Lepton_Grayscale_v1.ino](https://github.com/Pi1lot/Tiny-Thermal-Cam/blob/main/Lepton_Grayscale_v1.ino) is the most accurate regarding temperatures.
