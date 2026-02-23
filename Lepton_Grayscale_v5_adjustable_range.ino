@@ -1,5 +1,10 @@
 /* Used with an ESP-WROOM-32 dev board to interface with a FLIR Lepton 3.5 dev module. 
  * Version optimisée pour un rafraîchissement maximal
+
+
+Using a potentiometer on GPIO34 to adjust LUT range -> better results in outdoor environnement to account for the sky coldness
+
+ 
  */
 
 #include <SPI.h>
