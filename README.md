@@ -1,7 +1,6 @@
 # Tiny Thermal Cam
 
-
-![Working](lepton_scope_working.gif)
+<img width="1040" height="753" alt="Capture d&#39;écran 2026-02-24 005450" src="https://github.com/user-attachments/assets/7e875ce1-5263-42c0-9357-a34346be2c51" />
 
 Huge thanks to [Jacob-Lundstrom](https://github.com/Jacob-Lundstrom/ESP-FLIR) for its repository. It was the only one that I could get working properly with my Lepton camera.
 
@@ -44,6 +43,7 @@ Huge thanks to [Jacob-Lundstrom](https://github.com/Jacob-Lundstrom/ESP-FLIR) fo
 
 Depending if you prefer accuracy over speed, you can choose different programms. [Lepton_Grayscale_v6_completed.ino](https://github.com/Pi1lot/Tiny-Thermal-Cam/blob/main/Lepton_Grayscale_v6_completed.ino) is the latest version with proper handling of Lepton syncing at boot and implement a scale potentiometer to adjust contrast if used in a wide range of temperature. [Lepton_Grayscale_v1.ino](https://github.com/Pi1lot/Tiny-Thermal-Cam/blob/main/Lepton_Grayscale_v1.ino) is the most accurate regarding temperatures.
 
-## Gallery
+## Demo
 
-<img width="1040" height="753" alt="Capture d&#39;écran 2026-02-24 005450" src="https://github.com/user-attachments/assets/7e875ce1-5263-42c0-9357-a34346be2c51" />
+![lepton_scope_working](https://github.com/user-attachments/assets/d59a8f36-974e-44d5-af45-406cbf0b1a73)
+
