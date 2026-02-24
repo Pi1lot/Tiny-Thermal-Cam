@@ -42,7 +42,11 @@ Huge thanks to [Jacob-Lundstrom](https://github.com/Jacob-Lundstrom/ESP-FLIR) fo
 
 ## Code
 
-Depending if you prefer accuracy over speed, you can choose different programms. [Lepton_Grayscale_v6_completed.ino](https://github.com/Pi1lot/Tiny-Thermal-Cam/blob/main/Lepton_Grayscale_v6_completed.ino) is the latest version with proper handling of Lepton syncing at boot and implement a scale potentiometer to adjust contrast if used in a wide range of temperature. [Lepton_Grayscale_v1.ino](https://github.com/Pi1lot/Tiny-Thermal-Cam/blob/main/Lepton_Grayscale_v1.ino) is the most accurate regarding temperatures.
+Depending if you prefer accuracy over speed, you can choose different programs. [Lepton_Grayscale_v6_completed.ino](https://github.com/Pi1lot/Tiny-Thermal-Cam/blob/main/Lepton_Grayscale_v6_completed.ino) is the latest version with proper handling of Lepton syncing at boot and implement a scale potentiometer to adjust contrast if used in a wide range of temperature, but is focused on displaying images instead of measuring. For temperature accuracy, choose [Lepton_Grayscale_v1.ino](https://github.com/Pi1lot/Tiny-Thermal-Cam/blob/main/Lepton_Grayscale_v1.ino).
+
+## Improvements
+
+Sometimes framerate drops because the sensor loses sync with the ESP32 over the SPI bus. Maybe there are more reliable methods for handling this, hardware or software. 
 
 ## Demo
 
