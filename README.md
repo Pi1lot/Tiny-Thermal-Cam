@@ -16,7 +16,8 @@ Huge thanks to [Jacob-Lundstrom](https://github.com/Jacob-Lundstrom/ESP-FLIR) fo
 > [!WARNING]
 > Pinout schema doesn't include the potentiometer yet
 
-![Wiring](Schéma.png)
+<img width="1827" height="1440" alt="Schéma" src="https://github.com/user-attachments/assets/b52777e2-eb24-4111-a921-af870827650b" />
+
 
 | ESP32 Pin | Lepton Pin | Function  |
 |-----------|------------|-----------|
